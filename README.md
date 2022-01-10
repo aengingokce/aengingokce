@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Engin</h1>
+<h1 align="center">Hi 🍀, I'm Engin</h1>
 <h3 align="center">obsessed with art and iOS Development</h3>
 
 - 🔭 I’m currently working on real-time chat app categorized by branches of art [WiscussApp](https://github.com/aengingokce/WiscussApp)
