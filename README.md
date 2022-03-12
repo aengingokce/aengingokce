@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🍀, I'm Engin</h1>
-<h3 align="center">obsessed with art and iOS Development</h3>
+<h3 align="center">obsessed with art and software</h3>
 
 - 🌱 I’m currently working as a Jr. iOS Developer at **Volt Lines**
 
