@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🍀, I'm Engin</h1>
 <h3 align="center">obsessed with art and software</h3>
 
-- 🔭 I’m currently working on real-time chat app categorized by branches of art [WiscussApp](https://github.com/aengingokce/WiscussApp)
+- iOS Developer @[Volt Lines](https://github.com/voltlines)
 
-- iOS Bootcamp by Patika and Mobven - (Dec 2021 - Feb 2022)
+- iOS Bootcamp Student by Patika and Mobven - (Dec 2021 - Feb 2022)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
